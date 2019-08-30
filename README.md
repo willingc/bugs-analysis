@@ -28,3 +28,8 @@ datasette bugs.db
 Use `environment.yml` to create a conda environment.
 
 Use pandas `df.read_csv`.
+
+## Try it
+
+https://testing-pysplash.herokuapp.com/
+
